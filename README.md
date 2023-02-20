@@ -1,7 +1,3 @@
----
-theme: midnight
----
-
 
 # mrbaggins.github.io
 
